@@ -12,6 +12,7 @@ struct Temperature_ChecksApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            
         }
     }
 }
